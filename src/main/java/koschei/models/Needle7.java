@@ -14,7 +14,7 @@ public class Needle7 {
     }
 
     @Autowired
-    public void setOcean(Deth8 deth) {
+    public void setDeth(Deth8 deth) {
         this.deth = deth;
     }
 }
